@@ -58,7 +58,7 @@ A Python-based backend monitoring system that automatically checks service healt
 
 ## 🔬 Undergraduate Research
 
-### Edge vs. Cloud AI for Turbofan Remaining Useful Life
+### Edge vs. Cloud AI
 
 Exploring AI inference across edge and cloud environments using NASA's CMAPSS turbofan engine dataset.
 
